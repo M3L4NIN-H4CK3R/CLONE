@@ -36,11 +36,11 @@ $ python run.py
 <th>DURATION</th>
 </tr>
 <tr>
-<td>20k</td>
+<td>10k</td>
 <td>2 WEEKS</td>
 </tr>
 <tr>
-<td>85K</td>
+<td>40K</td>
 <td>PREMIUM</td>
 </tr>
 </table>
