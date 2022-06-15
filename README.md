@@ -3,7 +3,7 @@
 </h1>
 </div>
 <p align="center">
-  Made with ❤️ by <a href="https://www.facebook.com/Karma428">Karma</a>
+  Made with ❤️ by <a href="https://www.facebook.com/Karma428">Melanin</a>
 </p>
 <p align="center">
  
@@ -14,12 +14,12 @@
 #### Install script on Termux
 ```bash
 $ rm -rf Premium
-$ git clone https://github.com/M3L4NIN-H4CK3R/Premium
+$ git clone https://github.com/M3L4NIN-H4CK3R/CLONE
 ```
 #### Run script
 ```bash
-$ cd Premium
-$ python Premium.py
+$ cd CLONE
+$ python run.py
 ```
 #### MY SOCIAL MEDIA
 
