@@ -17,7 +17,7 @@
 
 #### Install script on Termux
 ```bash
-$ rm -rf Premium
+$ rm -rf CLONE
 $ git clone https://github.com/M3L4NIN-H4CK3R/CLONE
 ```
 #### Run script
