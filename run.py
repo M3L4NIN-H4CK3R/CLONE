@@ -1,6 +1,4 @@
-import os
-os.system('git pull')
-os.system('termux-setup-storage')
-print("\033 [1;32m    Welcome To My Tool")
+print ("\033[0;93mWELCOME TO MY TOOL")
+print ("\033[0;92mTRY YOUR LUCK")
 import mela01
-Main()
+mela01.menu()
